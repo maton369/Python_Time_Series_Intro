@@ -1,0 +1,6 @@
+# Python仮想環境を無視
+venv/
+env/
+.venv/
+.pyenv/
+py_tsa_venv/
